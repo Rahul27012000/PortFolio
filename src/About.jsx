@@ -150,8 +150,8 @@ const About = () => {
             alt="jnv"
           />
           <Carousel.Caption>
-            <h3 style={{ color: "aquamarine" }}>JNV Rajsamand</h3>
-            <p style={{ color: "aquamarine" }}>The Place Where I have started My Life Journey in a Different way</p>
+            <h3 style={{ color: "black" }}>JNV Rajsamand</h3>
+            <p style={{ color: "black" }}>The Place Where I have started My Life Journey in a Different way</p>
           </Carousel.Caption>
         </Carousel.Item>
 

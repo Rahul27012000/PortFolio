@@ -51,7 +51,7 @@ const Service = () => {
                                     <div class="card">
                                         <img class="card-img-top" src={web4} alt="Card image cap" />
                                         <div class="card-body">
-                                            <h5 class="card-title">Game velopment</h5>
+                                            <h5 class="card-title">Game Development</h5>
                                             <p class="card-text">Gamers can feel when developers are passionate about their games</p>
                                             <a href="https://www.studytonight.com/game-development-in-2D/" class="btn-get-started" target="_blank">Learn Game Development</a>
                                         </div>

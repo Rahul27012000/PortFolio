@@ -7,7 +7,7 @@ const Footer = () => {
     <div class="container-fluid pt-1">
         <div class="row pt-0">
           <div class="col-md-9">
-            <p class="text-white">Ceated by Rahul Maheshwari😎</p>
+            <p class="text-white">Created by Rahul Maheshwari😎</p>
           </div>
           <div class="col-md-3">
             <div class="d-inline-block">
