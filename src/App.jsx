@@ -1,5 +1,6 @@
 import React from 'react';
-import {Switch,Route, Redirect} from 'react-router-dom';
+import {Switch,Route, Redirect,HashRouter} from 'react-router-dom';
+import history from '../src/history';
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 import Home from './Home';
@@ -13,6 +14,7 @@ import Projects from './Projects';
 const App = () => {
     return(
         <>
+         <HashRouter history={history}>
         <Navbar/>
         <Switch>
         <Route exact path="/" component={Home}/>
@@ -23,6 +25,7 @@ const App = () => {
         <Redirect to ='/' />
         </Switch>
         <Footer/>
+        </HashRouter>
         </>
     )
    
