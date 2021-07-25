@@ -129,7 +129,7 @@ const Projects = () => {
                                         <img className="card-img-top" src={Car} alt="Card image cap" />
                                         <div className="card-body">
                                             <h5 className="card-title" style={{ textAlign: "center" }}>NITK AutoSave</h5>
-                                            <p className="card-text">I have done this MiniProject in First Year of My BTech in C language With My Classmate.In This we are making Models of car in such a manner that if any accident Happens then relatives,nearby police and Hospital will get a Message,you can explore it more here</p>
+                                            <p className="card-text">I have done this MiniProject in First Year of My BTech in C language With My Classmate.In This we are making Models of car in such a manner that if any accident Happens then relatives,nearby police and Hospital will get a Message,you can explore it more here.</p>
                                             <a href="https://github.com/Rahul27012000/NITK-AutoSave" className="btn-get-started" target="_blank">Can Check it here</a>
                                         </div>
                                     </div>
