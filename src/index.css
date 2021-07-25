@@ -6,7 +6,8 @@
     font-family: 'Ovo', serif;
 }
 .navbar{
-   background-color: rgba(0,0,0,0.75) !important;
+   background-color: rgba(0,0,0,0.75) ;
+   
    
 }
 .navbar-brand{
@@ -72,9 +73,9 @@ text-decoration: none;
     background-color: #3498db;
      color: #fff;
  }
- .header-img{
+ /* .header-img{
      text-align: center;
- }
+ } */
  #header .animated{
      animation: up-down 3s ease-in-out infinite alternate-reverse both;
  }
@@ -99,9 +100,10 @@ text-decoration: none;
      justify-content: center;
      align-items: center;
      flex-direction: column;
+     padding-top: 60px;
  }
  .typed-text{
-     font-size: 1.2rem;
+     font-size: 1.1rem;
      color:aquamarine;
      text-align: center;
  }
@@ -113,7 +115,7 @@ text-decoration: none;
  }
 /* footer  */
 .footer{
-    position: relative;
+    position:relative;
     width: 100%;
     margin-top: auto;
     bottom: 0;
@@ -137,22 +139,24 @@ text-decoration: none;
     color: #fff !important;
 }
 
+
+/* About */
 .introduction-container {
         padding-bottom: 20px;
-        padding-top: 20px;
+        padding-top: 40px;
     }
     
     .introduction-container h6 {
-        font-size: 25px;
+        font-size: 20px;
         color: rgb(1, 29, 20);
     }
     
     
     
     .introduction-container .profile-pic {
-        width: 70%;
-        height: 70%;
-        margin: 20px 0px 20px 40px;
+        width: 60%;
+        height: 80%;
+        margin: 5px 0px 10px 40px;
         border-radius: 30%;
     }
     
@@ -199,7 +203,7 @@ text-decoration: none;
     .gif-bg {
         background: url("../src/images/aboutbg.jpg") center center no-repeat;
         background-size: cover;
-        height: 50vh;
+        height: 70vh;
         width: 100%;
        
     }
