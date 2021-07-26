@@ -17,18 +17,21 @@ const Contact = () => {
           }
       })
     }
+
 const formSubmit=(e)=>{
 e.preventDefault();
-alert(`Your Name is ${data.Fullname},Your Mobile Number is ${data.Phone},Your Email is ${data.Email} & Your Message is ${data.Msg}`)
+alert("Submitted Successfully!!")
 emailjs.sendForm('service_tgz6l3n','template_qzmh8vl',e.target,'user_8qS1kBpLps2MVON61rsmQ').then(res=>{
     console.log(res)
+    
 }).catch(err=>console.log(err));
+
 }
 
     return (
         <>
             <div className="my-3">
-                <h1 className="text-center">Contact us</h1>
+                <h1 className="text-center">Contact Me</h1>
             </div>
             <div className="container contact_div">
                 <div className="row">
@@ -46,7 +49,7 @@ emailjs.sendForm('service_tgz6l3n','template_qzmh8vl',e.target,'user_8qS1kBpLps2
                             </div>
                             <div class="form-group">
                                 <label for="exampleInputEmail1">Email</label>
-                                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="Email" value={data.Email} onChange={InputEvent} placeholder="Enter Your Mobile Number" />
+                                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="Email" value={data.Email} onChange={InputEvent} placeholder="Enter Your Email" />
                                 
                             </div>
                             <div class="form-group">

@@ -43,7 +43,7 @@ const Projects = () => {
                                                 • Technologies used: React.JS ,Bootstrap ,Git ,CSS
                                             </p>
                                             <a href="https://github.com/Rahul27012000/PortFolio" className="btn-get-started" target="_blank">Can Check it here</a>&nbsp;
-                                            <a href="http://localhost:3000/PortFolio#/about" className="btn-get-started" target="_blank">Tap here to Visit</a>
+                                            <a href="https://rahul27012000.github.io/PortFolio/#/about" className="btn-get-started" target="_blank">Tap here to Visit</a>
                                         </div>
                                     </div>
                                 </div>
