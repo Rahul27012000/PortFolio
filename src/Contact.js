@@ -1,4 +1,4 @@
-
+import emailjs from 'emailjs-com'
 import React, { useState } from 'react';
 
 const Contact = () => {
@@ -20,6 +20,9 @@ const Contact = () => {
 const formSubmit=(e)=>{
 e.preventDefault();
 alert(`Your Name is ${data.Fullname},Your Mobile Number is ${data.Phone},Your Email is ${data.Email} & Your Message is ${data.Msg}`)
+emailjs.sendForm('service_tgz6l3n','template_qzmh8vl',e.target,'user_8qS1kBpLps2MVON61rsmQ').then(res=>{
+    console.log(res)
+}).catch(err=>console.log(err));
 }
 
     return (
