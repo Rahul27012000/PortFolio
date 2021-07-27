@@ -115,10 +115,11 @@ text-decoration: none;
  }
 /* footer  */
 .footer{
-    position:sticky;
+    position:relative;
     width: 100%;
     margin-top: 3vh;
-    /* bottom: 0px; */
+    margin-bottom: 0 !important;
+    bottom: 0px;
    background-color: rgba(0,0,0,0.65);
    
 }
