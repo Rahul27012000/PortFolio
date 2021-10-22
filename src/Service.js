@@ -5,8 +5,6 @@ import web3 from '../src/images/cyber.jpg';
 import web4 from '../src/images/GD.jpg';
 import web5 from '../src/images/ML.jpg';
 import web6 from '../src/images/mern.jpg';
-
-
 const Service = () => {
     return (
         <>

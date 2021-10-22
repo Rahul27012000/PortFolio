@@ -1,5 +1,5 @@
 import React from 'react';
-import {Switch,Route, Redirect,HashRouter} from 'react-router-dom';
+import {Switch,Route, Redirect,HashRouter,Link} from 'react-router-dom';
 import history from './history';
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle";
@@ -16,7 +16,8 @@ const App = () => {
         <>
          <HashRouter history={history}>
         <Navbar/>
-        <Switch>
+        <Switch>  
+        
         <Route exact path="/" component={Home}/>
         <Route exact path="/about" component={About}/>
         <Route exact path="/project" component={Projects}/>
