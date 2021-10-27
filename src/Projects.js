@@ -26,10 +26,15 @@ const Projects = () => {
                                         <img className="card-img-top" src={flip} alt="Card image cap" />
                                         <div className="card-body">
                                             <h5 className="card-title" style={{ textAlign: "center" }}>FlipKart Clone</h5>
-                                            <p className="card-text">• Designing a Full-stack Ecommerce Website as part of my learning process.<br></br>
-                                                • Building Website Framework using Node.Js and For Database using MongoDB Atlas.<br></br>
-                                                • Technologies used: Node.JS ,Express ,MongoDB ,React.JS ,Bootstrap.</p>
-                                            <a href="#" className="btn-get-started" >Currently Ongoing</a>
+                                            <p className="card-text">• I have created FlipKart Clone from scratch and also tried my level best to keep it as similar as FlipKart and also added similar functionalities!
+
+                                                I have used MERN Stack,Materialize CSS for UI, Redux, clsx etc.<br></br>
+                                                • For hosting I have used Heroku Platform :)
+
+
+</p>
+                                            <a href="https://github.com/Rahul27012000/Ecommerce-Website" className="btn-get-started" target="_blank">Can Check it here</a>&nbsp;
+                                            <a href="https://ecommercerahulwebsite.herokuapp.com/" className="btn-get-started" target="_blank">Tap here to Visit</a>
                                         </div>
                                     </div>
                                 </div>
