@@ -11,6 +11,7 @@ import port from '../src/images/prt.jpg'
 import pix from '../src/images/pixel.jpg'
 import biogas from '../src/images/biogas.jpg'
 import expense from '../src/images/Expense.jpg'
+import Book from '../src/images/Book.jpg'
 const Projects = () => {
     return (
         <>
@@ -69,6 +70,7 @@ const Projects = () => {
                                         </div>
                                     </div>
                                 </div>
+               
                                 <div className="col-md-4 col-10 mx-auto">
                                     <div className="card">
                                         <img className="card-img-top" src={expense} alt="Card image cap" style={{height:"31vh"}}/>
@@ -150,6 +152,18 @@ const Projects = () => {
                                                 • We came across 3 issues by understanding the codebase is what allowed us to try and rectify those issues.<br></br>
                                                 • Keyboard interrupt in SNARE, Unidentified SQLI attacks, Unidentified SQLI attacks</p>
 
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="col-md-4 col-10 mx-auto">
+                                    <div className="card">
+                                        <img className="card-img-top" src={Book} alt="Card image cap" style={{ height: '195px' }} />
+                                        <div className="card-body">
+                                            <h5 className="card-title" style={{ textAlign: "center" }}>Book Keeping Website</h5>
+                                            <p className="card-text">• Designed Book Keeping Website using MERN<br></br>
+                                                • User can Add,Update,delete and track all his books and can also see available books in the App. <br></br>
+                                                • Technologies used: Node.JS ,ExpressJS, MongoDB ,React.JS ,Bootstrap, Redux</p>
+                                            <a href="https://github.com/Rahul27012000/Book_Keeping_Website" className="btn-get-started" target="_blank">Can Check it here</a>
                                         </div>
                                     </div>
                                 </div>
