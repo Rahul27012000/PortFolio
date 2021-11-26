@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/PortFolio/static/css/main.c3f52209.chunk.css",
-    "main.js": "/PortFolio/static/js/main.09c73bb0.chunk.js",
-    "main.js.map": "/PortFolio/static/js/main.09c73bb0.chunk.js.map",
+    "main.js": "/PortFolio/static/js/main.285b554a.chunk.js",
+    "main.js.map": "/PortFolio/static/js/main.285b554a.chunk.js.map",
     "runtime-main.js": "/PortFolio/static/js/runtime-main.02ffe1f1.js",
     "runtime-main.js.map": "/PortFolio/static/js/runtime-main.02ffe1f1.js.map",
     "static/css/2.9e87e59d.chunk.css": "/PortFolio/static/css/2.9e87e59d.chunk.css",
-    "static/js/2.2d312626.chunk.js": "/PortFolio/static/js/2.2d312626.chunk.js",
-    "static/js/2.2d312626.chunk.js.map": "/PortFolio/static/js/2.2d312626.chunk.js.map",
+    "static/js/2.288c498d.chunk.js": "/PortFolio/static/js/2.288c498d.chunk.js",
+    "static/js/2.288c498d.chunk.js.map": "/PortFolio/static/js/2.288c498d.chunk.js.map",
     "index.html": "/PortFolio/index.html",
     "static/css/2.9e87e59d.chunk.css.map": "/PortFolio/static/css/2.9e87e59d.chunk.css.map",
     "static/css/main.c3f52209.chunk.css.map": "/PortFolio/static/css/main.c3f52209.chunk.css.map",
-    "static/js/2.2d312626.chunk.js.LICENSE.txt": "/PortFolio/static/js/2.2d312626.chunk.js.LICENSE.txt",
+    "static/js/2.288c498d.chunk.js.LICENSE.txt": "/PortFolio/static/js/2.288c498d.chunk.js.LICENSE.txt",
     "static/media/Android.f39ee7c0.jpg": "/PortFolio/static/media/Android.f39ee7c0.jpg",
     "static/media/Book.78b52216.jpg": "/PortFolio/static/media/Book.78b52216.jpg",
     "static/media/Car.ea468d46.jpg": "/PortFolio/static/media/Car.ea468d46.jpg",
@@ -24,6 +24,7 @@
     "static/media/index.css": "/PortFolio/static/media/aboutbg.e89d595d.jpg",
     "static/media/beach.000b6d0c.jpg": "/PortFolio/static/media/beach.000b6d0c.jpg",
     "static/media/biogas.abdb5b69.jpg": "/PortFolio/static/media/biogas.abdb5b69.jpg",
+    "static/media/bitcoin.ad918feb.jpg": "/PortFolio/static/media/bitcoin.ad918feb.jpg",
     "static/media/cyber.e3979111.jpg": "/PortFolio/static/media/cyber.e3979111.jpg",
     "static/media/dance.a4301b1a.jpg": "/PortFolio/static/media/dance.a4301b1a.jpg",
     "static/media/frd 1.865ad88f.jpeg": "/PortFolio/static/media/frd 1.865ad88f.jpeg",
@@ -46,8 +47,8 @@
   "entrypoints": [
     "static/js/runtime-main.02ffe1f1.js",
     "static/css/2.9e87e59d.chunk.css",
-    "static/js/2.2d312626.chunk.js",
+    "static/js/2.288c498d.chunk.js",
     "static/css/main.c3f52209.chunk.css",
-    "static/js/main.09c73bb0.chunk.js"
+    "static/js/main.285b554a.chunk.js"
   ]
 }
