@@ -44,7 +44,7 @@ const About = () => {
             <div className="col-lg-12">
               <header className="cen">
                 <h1 className="main-header animated bounceInLeft">Hello, I'm Rahul</h1>
-                <p className="main-sub-header animated bounceInRight" style={{ fontSize: '20px' }}><b> Third Year Undergraduate</b> student studying <b>Chemical Engineering with Minors in Information Technology</b> at <b>National Institute of Technology Karnataka,Surathkal</b>.</p>
+                <p className="main-sub-header animated bounceInRight" style={{ fontSize: '20px' }}><b> Final Year Undergraduate</b> student studying <b>Chemical Engineering with Minors in Information Technology</b> at <b>National Institute of Technology Karnataka,Surathkal</b>.</p>
                 <Typed
                   className="typed-text"
                   strings={["Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too"]}
@@ -165,6 +165,13 @@ const About = () => {
           <AccordionItemPanel>
             <p>
               Indian Society for Technical Education, NITK Chapter Surathkal, Karnataka. <br></br>
+              Crypt SIG HEAD from May 2022 till Present<br></br>
+              • Responsible for maintaining DSA aura in the club<br></br>
+              • Responsible for conducting Coding Contests for the Juniors<br></br>
+              • Responsible for Organizing Technical Events for Crypt<br></br>
+              <br></br>
+
+              Indian Society for Technical Education, NITK Chapter Surathkal, Karnataka. <br></br>
               EXECUTIVE MEMBER from Sept 2020 till PRESENT <br></br>
               • Member of Crypt (Coding) Special Interest Group. <br></br>
               • Member of ISTE Website Development Team <br></br>
@@ -178,7 +185,7 @@ const About = () => {
               • Mentor of Summer Mentorship Program in Web Development<br></br><br></br>
 
               Information Technology(Minors) Surathkal, Karnataka<br></br>
-              CLASS REPRESENTATIVE from Jan 2021 till PRESENT<br></br>
+              CLASS REPRESENTATIVE from Jan 2021 to DEC 2021<br></br>
               • Responsible for maintaining contact with professors and getting updates about classes, quizzes, etc and sharing the Important information
               to students on time.<br></br><br></br>
               HESC(Hindi Evam Sanskrit Club) Surathkal, Karnataka<br></br>

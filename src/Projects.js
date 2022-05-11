@@ -13,6 +13,7 @@ import biogas from '../src/images/biogas.jpg'
 import expense from '../src/images/Expense.jpg'
 import Book from '../src/images/Book.jpg'
 import Chat from '../src/images/Chat.jpg'
+import Bit from '../src/images/bitcoin.jpg'
 const Projects = () => {
     return (
         <>
@@ -89,12 +90,26 @@ const Projects = () => {
                                         <img className="card-img-top" src={Chat} alt="Card image cap" style={{ height: "31vh" }} />
                                         <div className="card-body">
                                             <h5 className="card-title" style={{ textAlign: "center" }}>Chat Application</h5>
-                                            <p className="card-text">• I have created Chat Application where you can send Audio,Video,GIFs,Links, Documents,images etc, 
+                                            <p className="card-text">• Created Chat Application where you can send Audio,Video,GIFs,Links, Documents,images etc, 
                                                 You can create groups,add members to it,make friends and have conversation with them!
                                                 <br></br>
                                                 • Technologies used: Stream-Chat,Crypto,ReactJS,ExpressJS,NodeJS,React-Stream-Chat,get stream etc!</p>
-                                            <a href="https://github.com/Rahul27012000/Chat_Application/" className="btn-get-started" target="_blank">Can Check it here</a>&nbsp;
+                                            <a href="https://github.com/Rahul27012000/Chat_Application" className="btn-get-started" target="_blank">Can Check it here</a>&nbsp;
                                             <a href="https://chatappbyrahul.netlify.app/" className="btn-get-started" target="_blank">Tap here to Visit</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="col-md-4 col-10 mx-auto">
+                                    <div className="card">
+                                        <img className="card-img-top" src={Bit} alt="Card image cap" style={{ height: "31vh" }} />
+                                        <div className="card-body">
+                                            <h5 className="card-title" style={{ textAlign: "center" }}>CryptoVerse</h5>
+                                            <p className="card-text">• Created one Cryptocurrency Application where you can see any Information about any Cryptocurrency, 
+                                            You can see the latest news about any particular Cryptocurrency along with Stats,Price Chart,Current Price, Exchanges, Market Cap etc.
+                                                <br></br>
+                                                • Technologies used: Rapid API, ReactJS, Ant Design, ChartJS, Redux etc!</p>
+                                            <a href="https://github.com/Rahul27012000/CryptoCurrency-App" className="btn-get-started" target="_blank">Can Check it here</a>&nbsp;
+                                            {/* <a href="https://cryptoversebyrahul.netlify.app/" className="btn-get-started" target="_blank">Tap here to Visit</a> */}
                                         </div>
                                     </div>
                                 </div>
@@ -119,7 +134,7 @@ const Projects = () => {
                                             <h5 className="card-title" style={{ textAlign: "center" }}>ML based pixel art generation</h5>
                                             <p className="card-text">This is the group project which we will be doing and Mentoring under ISTE.We will be using  Machine Learning to create pixel art from images. We’ll be using Pix2Pix and cycleGAN models which are generally used for img-to-img translation.We will use this images(characters) in our Game which will be created using Unity and C#
                                             </p>
-                                            <a href="#" className="btn-get-started" >Currently Ongoing</a>
+                                            <a href="#" className="btn-get-started" >Done</a>
                                         </div>
                                     </div>
                                 </div>
@@ -135,14 +150,25 @@ const Projects = () => {
                                         </div>
                                     </div>
                                 </div>
-
+                                <div className="col-md-4 col-10 mx-auto">
+                                    <div className="card">
+                                        <img className="card-img-top" src={Book} alt="Card image cap" style={{ height: '195px' }} />
+                                        <div className="card-body">
+                                            <h5 className="card-title" style={{ textAlign: "center" }}>Book Keeping Website</h5>
+                                            <p className="card-text">• Designed Book Keeping Website using MERN<br></br>
+                                                • User can Add,Update,delete and track all his books and can also see available books in the App. <br></br>
+                                                • Technologies used: Node.JS ,ExpressJS, MongoDB ,React.JS ,Bootstrap, Redux</p>
+                                            <a href="https://github.com/Rahul27012000/Book_Keeping_Website" className="btn-get-started" target="_blank">Can Check it here</a>
+                                        </div>
+                                    </div>
+                                </div>
                                 <div className="col-md-4 col-10 mx-auto">
                                     <div className="card">
                                         <img className="card-img-top" src={dance} alt="Card image cap" style={{ height: '195px' }}/>
                                         <div className="card-body">
                                             <h5 className="card-title" style={{ textAlign: "center" }}>Dance Website</h5>
                                             <p className="card-text">•Done this as part of my learning via watching tutorials,taking help of Google and Made Modifications as per my choice<br></br>
-                                            •Technologies used:Pug,NodeJS,ExpressJS,mongoose and MongoDB for database and used CSS for designing.</p><br></br>
+                                            •Technologies used:Pug,NodeJS,ExpressJS,mongoose and MongoDB for database and used CSS for designing.</p>
                                             <a href="https://github.com/Rahul27012000/DanceWebsite/tree/master" className="btn-get-started" target="_blank">Can Check it here</a><br></br>
                                         </div>
                                     </div>
@@ -171,18 +197,7 @@ const Projects = () => {
                                         </div>
                                     </div>
                                 </div>
-                                <div className="col-md-4 col-10 mx-auto">
-                                    <div className="card">
-                                        <img className="card-img-top" src={Book} alt="Card image cap" style={{ height: '195px' }} />
-                                        <div className="card-body">
-                                            <h5 className="card-title" style={{ textAlign: "center" }}>Book Keeping Website</h5>
-                                            <p className="card-text">• Designed Book Keeping Website using MERN<br></br>
-                                                • User can Add,Update,delete and track all his books and can also see available books in the App. <br></br>
-                                                • Technologies used: Node.JS ,ExpressJS, MongoDB ,React.JS ,Bootstrap, Redux</p>
-                                            <a href="https://github.com/Rahul27012000/Book_Keeping_Website" className="btn-get-started" target="_blank">Can Check it here</a>
-                                        </div>
-                                    </div>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
