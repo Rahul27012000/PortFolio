@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/PortFolio/static/css/main.4034d439.chunk.css",
-    "main.js": "/PortFolio/static/js/main.d442bdf6.chunk.js",
-    "main.js.map": "/PortFolio/static/js/main.d442bdf6.chunk.js.map",
+    "main.js": "/PortFolio/static/js/main.cb124cbb.chunk.js",
+    "main.js.map": "/PortFolio/static/js/main.cb124cbb.chunk.js.map",
     "runtime-main.js": "/PortFolio/static/js/runtime-main.02ffe1f1.js",
     "runtime-main.js.map": "/PortFolio/static/js/runtime-main.02ffe1f1.js.map",
     "static/css/2.b6c3b99c.chunk.css": "/PortFolio/static/css/2.b6c3b99c.chunk.css",
@@ -17,6 +17,7 @@
     "static/media/Car.ea468d46.jpg": "/PortFolio/static/media/Car.ea468d46.jpg",
     "static/media/Chat.ef25576a.jpg": "/PortFolio/static/media/Chat.ef25576a.jpg",
     "static/media/Expense.d1b0b170.jpg": "/PortFolio/static/media/Expense.d1b0b170.jpg",
+    "static/media/Fitness.06e30c7d.jpg": "/PortFolio/static/media/Fitness.06e30c7d.jpg",
     "static/media/GD.8903c382.jpg": "/PortFolio/static/media/GD.8903c382.jpg",
     "static/media/ML.109bd70b.jpg": "/PortFolio/static/media/ML.109bd70b.jpg",
     "static/media/Tinder.58256733.jpg": "/PortFolio/static/media/Tinder.58256733.jpg",
@@ -49,6 +50,6 @@
     "static/css/2.b6c3b99c.chunk.css",
     "static/js/2.288c498d.chunk.js",
     "static/css/main.4034d439.chunk.css",
-    "static/js/main.d442bdf6.chunk.js"
+    "static/js/main.cb124cbb.chunk.js"
   ]
 }
