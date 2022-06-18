@@ -14,6 +14,7 @@ import expense from '../src/images/Expense.jpg'
 import Book from '../src/images/Book.jpg'
 import Chat from '../src/images/Chat.jpg'
 import Bit from '../src/images/bitcoin.jpg'
+import Fitness from '../src/images/Fitness.jpg'
 const Projects = () => {
     return (
         <>
@@ -26,7 +27,7 @@ const Projects = () => {
                             <div className="row gy-4">
                                 <div className="col-md-4 col-10 mx-auto">
                                     <div className="card">
-                                        <img className="card-img-top" src={flip} alt="Card image cap" />
+                                        <img className="card-img-top" src={flip} alt="Card image cap" style={{ height: "31vh" }} />
                                         <div className="card-body">
                                             <h5 className="card-title" style={{ textAlign: "center" }}>FlipKart Clone</h5>
                                             <p className="card-text">• I have created FlipKart Clone from scratch and also tried my level best to keep it as similar as FlipKart and also added similar functionalities!
@@ -46,7 +47,7 @@ const Projects = () => {
 
                                 <div className="col-md-4 col-10 mx-auto">
                                     <div className="card">
-                                        <img className="card-img-top" src={port} alt="Card image cap" style={{ height: '195px' }} />
+                                        <img className="card-img-top" src={port} alt="Card image cap" style={{ height: "31vh" }} />
                                         <div className="card-body">
                                             <h5 className="card-title" style={{ textAlign: "center" }}>Self PortFolio Website</h5>
                                             <p className="card-text">• Designed Complete Frontend PortFolio Website using React and Used Github (gh-pages) for hosting, Has various Sections about Projects, Some Free Websites etc.
@@ -62,7 +63,7 @@ const Projects = () => {
 
                                 <div className="col-md-4 col-10 mx-auto">
                                     <div className="card">
-                                        <img className="card-img-top" src={tinder} alt="Card image cap" />
+                                        <img className="card-img-top" src={tinder} alt="Card image cap" style={{ height: "31vh" }} />
                                         <div className="card-body">
                                             <h5 className="card-title" style={{ textAlign: "center" }}>Mini Tinder</h5>
                                             <p className="card-text">• Designed Mini Tinder using MERN<br></br><br></br>
@@ -82,6 +83,18 @@ const Projects = () => {
                                                 • Technologies used: React.JS ,ChartJS ,React-Speechly ,MaterialUI ,gh-pages for hosting.</p><br></br>
                                             <a href="https://github.com/Rahul27012000/Voice_Powered_Budget_Tracker" className="btn-get-started" target="_blank">Can Check it here</a>&nbsp;
                                             <a href="https://rahul27012000.github.io/Voice_Powered_Budget_Tracker/" className="btn-get-started" target="_blank">Tap here to Visit</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="col-md-4 col-10 mx-auto">
+                                    <div className="card">
+                                        <img className="card-img-top" src={Fitness} alt="Card image cap" style={{ height: "31vh" }} />
+                                        <div className="card-body">
+                                            <h5 className="card-title" style={{ textAlign: "center" }}>Fitness App</h5><br></br>
+                                            <p className="card-text">• I have created Fitness App for gym enthusiasts where the user will get all the info about any exercise he wish for on his fingertips!<br></br>
+                                                • Technologies used: React.JS, RapidAPI, MaterialUI, netlify for hosting.</p><br></br>
+                                            <a href="https://github.com/Rahul27012000/FitnessApp" className="btn-get-started" target="_blank">Can Check it here</a>&nbsp;
+                                            <a href="https://fitnessappbyrahul.netlify.app/" className="btn-get-started" target="_blank">Tap here to Visit</a>
                                         </div>
                                     </div>
                                 </div>
@@ -115,7 +128,7 @@ const Projects = () => {
                                 </div>
                                 <div className="col-md-4 col-10 mx-auto">
                                     <div className="card">
-                                        <img className="card-img-top" src={todo} alt="Card image cap" style={{ height: '195px' }} />
+                                        <img className="card-img-top" src={todo} alt="Card image cap" style={{ height: "31vh" }} />
                                         <div className="card-body">
                                             <h5 className="card-title" style={{ textAlign: "center" }}>To-Do List</h5>
                                             <p className="card-text">• Designed Complete Frontend To-Do Website using React and Used Github (gh-pages) for hosting,Has One Extra Feature of maintaining your tasks even after refreshing the page or shutting down the PC/laptop.<br></br><br></br>
@@ -129,7 +142,7 @@ const Projects = () => {
 
                                 <div className="col-md-4 col-10 mx-auto">
                                     <div className="card">
-                                        <img className="card-img-top" src={pix} alt="Card image cap" />
+                                        <img className="card-img-top" src={pix} alt="Card image cap" style={{ height: "31vh" }} />
                                         <div className="card-body">
                                             <h5 className="card-title" style={{ textAlign: "center" }}>ML based pixel art generation</h5>
                                             <p className="card-text">This is the group project which we will be doing and Mentoring under ISTE.We will be using  Machine Learning to create pixel art from images. We’ll be using Pix2Pix and cycleGAN models which are generally used for img-to-img translation.We will use this images(characters) in our Game which will be created using Unity and C#
@@ -141,18 +154,18 @@ const Projects = () => {
 
                                 <div className="col-md-4 col-10 mx-auto">
                                     <div className="card">
-                                        <img className="card-img-top" src={weather} alt="Card image cap" style={{ height: '195px' }} />
+                                        <img className="card-img-top" src={weather} alt="Card image cap" style={{ height: "31vh" }} />
                                         <div className="card-body">
                                             <h5 className="card-title" style={{ textAlign: "center" }}>Weather Website</h5>
                                             <p className="card-text">• Done this as part of my learning via watching tutorials,taking help of Google and Made Modifications as per my choice.<br></br>
-                                                • As we enter Some City/Place Name, it will give the Current Temperature/Weather of that Place.I have used hbs,NodeJS,ExpressJS and used CSS for designing.</p><br></br>
+                                                • As we enter Some City/Place Name, it will give the Current Temperature/Weather of that Place.I have used hbs,NodeJS,ExpressJS and used CSS for designing.</p>
                                             <a href="https://github.com/Rahul27012000/WeatherWebsite" className="btn-get-started" target="_blank">Can Check it here</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="col-md-4 col-10 mx-auto">
                                     <div className="card">
-                                        <img className="card-img-top" src={Book} alt="Card image cap" style={{ height: '195px' }} />
+                                        <img className="card-img-top" src={Book} alt="Card image cap" style={{ height: "31vh" }} />
                                         <div className="card-body">
                                             <h5 className="card-title" style={{ textAlign: "center" }}>Book Keeping Website</h5>
                                             <p className="card-text">• Designed Book Keeping Website using MERN<br></br>
@@ -164,7 +177,7 @@ const Projects = () => {
                                 </div>
                                 <div className="col-md-4 col-10 mx-auto">
                                     <div className="card">
-                                        <img className="card-img-top" src={dance} alt="Card image cap" style={{ height: '195px' }}/>
+                                        <img className="card-img-top" src={dance} alt="Card image cap" style={{ height: "31vh" }}/>
                                         <div className="card-body">
                                             <h5 className="card-title" style={{ textAlign: "center" }}>Dance Website</h5>
                                             <p className="card-text">•Done this as part of my learning via watching tutorials,taking help of Google and Made Modifications as per my choice<br></br>
@@ -175,7 +188,7 @@ const Projects = () => {
                                 </div>
                                 <div className="col-md-4 col-10 mx-auto">
                                     <div className="card">
-                                        <img className="card-img-top" src={Car} alt="Card image cap" />
+                                        <img className="card-img-top" src={Car} alt="Card image cap" style={{ height: "31vh" }} />
                                         <div className="card-body">
                                             <h5 className="card-title" style={{ textAlign: "center" }}>NITK AutoSave</h5>
                                             <p className="card-text">I have done this MiniProject in First Year of My BTech in C language With My Classmate.In This we are making Models of car in such a manner that if any accident Happens then relatives,nearby police and Hospital will get a Message,you can explore it more here.</p>
@@ -187,7 +200,7 @@ const Projects = () => {
 
                                 <div className="col-md-4 col-10 mx-auto">
                                     <div className="card">
-                                        <img className="card-img-top" src={honey} alt="Card image cap" style={{ height: '195px' }} />
+                                        <img className="card-img-top" src={honey} alt="Card image cap" style={{ height: "31vh" }}/>
                                         <div className="card-body">
                                             <h5 className="card-title" style={{ textAlign: "center" }}>HoneyPot</h5>
                                             <p className="card-text">• Done this Project under ISTE and First of all we have Understood the codebase of SNARE and TANNER<br></br><br></br>
