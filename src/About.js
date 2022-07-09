@@ -24,7 +24,7 @@ import 'react-accessible-accordion/dist/fancy-example.css';
 
 const About = () => {
   return (
-    <>
+    <div className="maxii">
       <Particles
         params={{
           particles: {
@@ -65,7 +65,7 @@ const About = () => {
           </div>
           <div className="col-md-9 introduction-content mx-auto">
             <h6><span className="bold-content">Full Name:</span> Rahul Maheshwari</h6>
-            <h6>Third Year Undergraduate</h6>
+            <h6>Final Year Undergraduate</h6>
             <h6>Web Developer</h6>
             <h6>Love To Code and Photography in Veins</h6>
 
@@ -353,7 +353,7 @@ const About = () => {
           </div>
         </div>
       </div>
-    </>
+    </div>
   )
 }
 export default About;

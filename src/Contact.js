@@ -32,7 +32,7 @@ emailjs.sendForm('service_tgz6l3n','template_qzmh8vl',e.target,'user_8qS1kBpLps2
 
 
     return (
-        <div className="man">
+        <div className="man maxii">
             <div className="my-3">
                 <h1 className="text-center">Contact Me</h1>
             </div>
@@ -50,25 +50,25 @@ emailjs.sendForm('service_tgz6l3n','template_qzmh8vl',e.target,'user_8qS1kBpLps2
                                 <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="Phone" value={data.Phone} onChange={InputEvent} placeholder="Enter Your Mobile Number" />
 
                             </div>
-                            <br></br>
+                            
                             <div class="form-group">
                                 <label for="exampleInputEmail1" style={{fontSize:'20px'}}>Email</label>
                                 <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="Email" value={data.Email} onChange={InputEvent} placeholder="Enter Your Email" />
                                 
                             </div>
-                            <br></br>
+                            
                             <div class="form-group">
                                 <label for="exampleFormControlTextarea1" style={{fontSize:'20px'}}>Message/Suggestions</label>
                                 <textarea class="form-control" id="exampleFormControlTextarea1" rows="8" name="Msg" value={data.Msg} onChange={InputEvent} placeholder="Enter Your Message/Suggestions"></textarea>
                             </div>
-                            <br></br>
-                            <br></br>
+                            
                             <button type="submit" class="btn btn-outline-primary">Submit</button>
-                            <br></br>
+                            
                         </form>
                     </div>
                 </div>
             </div>
+            
         </div>
     )
 

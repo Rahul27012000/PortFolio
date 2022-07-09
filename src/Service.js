@@ -5,10 +5,11 @@ import web3 from '../src/images/cyber.jpg';
 import web4 from '../src/images/GD.jpg';
 import web5 from '../src/images/ML.jpg';
 import web6 from '../src/images/mern.jpg';
+// import Footer from './Footer';
 const Service = () => {
     return (
         <>
-            <div className="my-5">
+            <div className="mt-5 maxii">
                 <h1 className="text-center ">Learn Something New!</h1>
                 <div className="container-fluid mb-5">
                     <div className="row">
@@ -79,7 +80,9 @@ const Service = () => {
                         </div>
                     </div>
                 </div>
+                {/* <Footer/> */}
             </div>
+            
         </>
     )
 

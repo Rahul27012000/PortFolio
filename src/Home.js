@@ -1,12 +1,12 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import web from "../src/images/growth.svg"
-
+// import Footer from './Footer';
 
 const Home = () => {
     return (
         <>
-            <section id="header" className="d-flex align-items-center">
+            <section id="header" className="d-flex align-items-center maxii">
                 <div className="container-fluid">
                     <div className="row">
                         <div className="col-10 mx-auto">
@@ -33,6 +33,7 @@ const Home = () => {
                     </div>
                 </div>
             </section>
+            {/* <Footer/> */}
         </>
     )
 

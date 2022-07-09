@@ -18,7 +18,7 @@ import Fitness from '../src/images/Fitness.jpg'
 const Projects = () => {
     return (
         <>
-            <div className="my-5">
+            <div className="mt-5 maxii">
                 <h1 className="text-center">Coding Projects</h1>
 
                 <div className="container-fluid mb-5">
@@ -108,7 +108,7 @@ const Projects = () => {
                                                 <br></br>
                                                 • Technologies used: Stream-Chat,Crypto,ReactJS,ExpressJS,NodeJS,React-Stream-Chat,get stream etc!</p>
                                             <a href="https://github.com/Rahul27012000/Chat_Application" className="btn-get-started" target="_blank">Can Check it here</a>&nbsp;
-                                            <a href="https://chatappbyrahul.netlify.app/" className="btn-get-started" target="_blank">Tap here to Visit</a>
+                                            {/* <a href="https://chatappbyrahul.netlify.app/" className="btn-get-started" target="_blank">Tap here to Visit</a> */}
                                         </div>
                                     </div>
                                 </div>
@@ -242,7 +242,7 @@ const Projects = () => {
                                         <div className="card-body">
                                             <h5 className="card-title" style={{ textAlign: "center" }}>Modelling and Simulation for Biogas Production from Organic Waste</h5>
                                             <p className="card-text">This is the group project which we will be doing and will be Mentoring under ISTE, The objective of the project is to explore how the biogas production in Industrial scale from the Organic wastes can be mathematically modeled in a largely known process called the ADM(Anaerobic Digestion Method). The simulation of this method through the Anaerobic digestion of organic wastes is being done in the process.</p>
-                                            <a href="#" className="btn-get-started">Currently Ongoing</a>
+                                            <a href="#" className="btn-get-started">Done</a>
                                         </div>
                                     </div>
                                 </div>
@@ -254,6 +254,7 @@ const Projects = () => {
                     </div>
                 </div>
             </div>
+            
         </>
     )
 }
