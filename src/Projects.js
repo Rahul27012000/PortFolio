@@ -94,7 +94,7 @@ const Projects = () => {
                                             <p className="card-text">• I have created Fitness App for gym enthusiasts where the user will get all the info about any exercise he wish for on his fingertips!<br></br>
                                                 • Technologies used: React.JS, RapidAPI, MaterialUI, netlify for hosting.</p><br></br>
                                             <a href="https://github.com/Rahul27012000/FitnessApp" className="btn-get-started" target="_blank">Can Check it here</a>&nbsp;
-                                            <a href="https://fitnessappbyrahul.netlify.app/" className="btn-get-started" target="_blank">Tap here to Visit</a>
+                                            {/* <a href="https://fitnessappbyrahul.netlify.app/" className="btn-get-started" target="_blank">Tap here to Visit</a> */}
                                         </div>
                                     </div>
                                 </div>
