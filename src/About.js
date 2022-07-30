@@ -47,7 +47,7 @@ const About = () => {
                 <p className="main-sub-header animated bounceInRight" style={{ fontSize: '20px' }}><b> Final Year Undergraduate</b> student studying <b>Chemical Engineering with Minors in Information Technology</b> at <b>National Institute of Technology Karnataka,Surathkal</b>.</p>
                 <Typed
                   className="typed-text"
-                  strings={["Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too"]}
+                  strings={["Love to Code", "Web Development", "Summer Intern at Graphene Health Tech","Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at Graphene Health Tech","Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at Graphene Health Tech","Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at Graphene Health Tech","Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at Graphene Health Tech","Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at Graphene Health Tech","Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at Graphene Health Tech","Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at Graphene Health Tech","Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at Graphene Health Tech","Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at Graphene Health Tech","Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at Graphene Health Tech","Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at Graphene Health Tech","Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at Graphene Health Tech","Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too","Love to Code", "Web Development", "Summer Intern at Graphene Health Tech","Summer Intern at SmarkT ", "Ex Navodian from JNV Rajsamand", "Love Badminton", "Love Photography", "Love Sleeping too",]}
                   typeSpeed={100}
                   backSpeed={60}
                 />
@@ -98,11 +98,11 @@ const About = () => {
           </AccordionItemHeading>
           <AccordionItemPanel>
             <p>
-              • Languages: C++, C ,HTML ,CSS ,JS ,Python <br></br>
+              • Languages: C++, C ,HTML ,CSS ,JS<br></br>
               • Frameworks: ExpressJS <br></br>
               • Libraries: ReactJS <br></br>
               • Databases: MongoDB ,SQL ,Mysql <br></br>
-              • Tools:NodeJS ,Git , Visual Studio ,Code::Blocks ,PyCharm ,Matlab ,Simulink ,Excel <br></br>
+              • Tools:NodeJS ,Git , Visual Studio ,Code::Blocks ,Simulink ,Excel <br></br>
               • Soft Skills: Leadership,Problem Solving,Public Speaking,Decision Making,Teamwork.
             </p>
           </AccordionItemPanel>
@@ -115,7 +115,12 @@ const About = () => {
           </AccordionItemHeading>
           <AccordionItemPanel>
             <p>
-              <b>FULL STACK ENGINEERING INTERN</b> from May 2021 to July 2021<br></br>
+            <b>FULL STACK ENGINEERING INTERN</b> from May 2022 to June 2022<br></br>
+              • Worked on React and Angular Projects<br></br>
+              • Responsible for designing the frontend modules and solving the major bugs in frontend. <br></br>
+              • Worked on some API modules in fastAPI<br></br>
+              • Technologies used: React, Redux, Talwind CSS, Materialize CSS, Typescript, Angular<br></br><br></br>
+              <b>FULL STACK ENGINEERING INTERN</b> from May 2021 to June 2021<br></br>
               • Designed the FrontEnd Part for Most of the Website using Bootstrap <br></br>
               • Used Chart.JS for implementing Bar-Graphs and Pi-Charts in website <br></br>
               • Implemented some RESTFUL API modules in Flask  <br></br>
@@ -164,34 +169,30 @@ const About = () => {
           </AccordionItemHeading>
           <AccordionItemPanel>
             <p>
-              Indian Society for Technical Education, NITK Chapter Surathkal, Karnataka. <br></br>
+              <b>Indian Society for Technical Education, NITK Chapter Surathkal, Karnataka. </b><br></br>
               Crypt SIG HEAD from May 2022 till Present<br></br>
               • Responsible for maintaining DSA aura in the club<br></br>
               • Responsible for conducting Coding Contests for the Juniors<br></br>
               • Responsible for Organizing Technical Events for Crypt<br></br>
               <br></br>
 
-              Indian Society for Technical Education, NITK Chapter Surathkal, Karnataka. <br></br>
-              EXECUTIVE MEMBER from Sept 2020 till PRESENT <br></br>
+              <b>Indian Society for Technical Education, NITK Chapter Surathkal, Karnataka. </b><br></br>
+              EXECUTIVE MEMBER from Sept 2020 to May 2022 <br></br>
               • Member of Crypt (Coding) Special Interest Group. <br></br>
               • Member of ISTE Website Development Team <br></br>
               • Member of Catalyst (Chemical) Special Interest Group. <br></br><br></br>
-              Indian Society for Technical Education, NITK Chapter Surathkal, Karnataka <br></br>
-              FRONTEND DEVELOPER from Sept 2020 till PRESENT <br></br>
+              <b>Indian Society for Technical Education, NITK Chapter Surathkal, Karnataka. </b><br></br>
+              FRONTEND DEVELOPER from Sept 2020 to May 2022 <br></br>
               • Completed a Team Project(Frontend) by Making ISTE Website from scratch using React JS and Materialize CSS.<br></br><br></br>
-              Indian Society for Technical Education, NITK Chapter Surathkal, Karnataka <br></br>
+              <b>Indian Society for Technical Education, NITK Chapter Surathkal, Karnataka. </b><br></br>
               MENTOR from Apr 2021 to May 2021 <br></br>
               • Made Youtube Videos on Web Development Topics <br></br>
               • Mentor of Summer Mentorship Program in Web Development<br></br><br></br>
 
-              Information Technology(Minors) Surathkal, Karnataka<br></br>
+              <b>Information Technology(Minors) Surathkal, Karnataka</b><br></br>
               CLASS REPRESENTATIVE from Jan 2021 to DEC 2021<br></br>
               • Responsible for maintaining contact with professors and getting updates about classes, quizzes, etc and sharing the Important information
-              to students on time.<br></br><br></br>
-              HESC(Hindi Evam Sanskrit Club) Surathkal, Karnataka<br></br>
-              EXECUTIVE MEMBER from July 2020 till PRESENT<br></br>
-              • Responsible for literature derived content and poem constructions.<br></br>
-              • Organizing events, Quiz/Literature Competitions
+              to students on time.<br></br>
             </p>
           </AccordionItemPanel>
         </AccordionItem>
@@ -304,18 +305,6 @@ const About = () => {
           <Carousel.Caption>
             <h3 style={{ color: "aquamarine" }}>ISTE</h3>
             <p style={{ color: "aquamarine" }}>The Indian Society for Technical Education</p>
-          </Carousel.Caption>
-        </Carousel.Item>
-        <Carousel.Item>
-          <img
-            className="d-block w-100"
-            src={hesc}
-            alt="hesc"
-          />
-
-          <Carousel.Caption>
-            <h3 style={{ color: "brown" }}>HESC</h3>
-            <p style={{ color: "brown" }}>Hindi Evam Sanskrit Club</p>
           </Carousel.Caption>
         </Carousel.Item>
 

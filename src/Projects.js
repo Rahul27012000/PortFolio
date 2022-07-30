@@ -170,7 +170,7 @@ const Projects = () => {
                                             <h5 className="card-title" style={{ textAlign: "center" }}>Book Keeping Website</h5>
                                             <p className="card-text">• Designed Book Keeping Website using MERN<br></br>
                                                 • User can Add,Update,delete and track all his books and can also see available books in the App. <br></br>
-                                                • Technologies used: Node.JS ,ExpressJS, MongoDB ,React.JS ,Bootstrap, Redux</p>
+                                                • Technologies used: Node.JS ,ExpressJS, MongoDB ,React.JS ,Bootstrap, Redux</p><br></br>
                                             <a href="https://github.com/Rahul27012000/Book_Keeping_Website" className="btn-get-started" target="_blank">Can Check it here</a>
                                         </div>
                                     </div>
