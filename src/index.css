@@ -1,14 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Ovo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 *{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    font-family: 'Ovo', serif;
+    font-family: 'Poppins', sans-serif;
 }
 .navbar{
-   background-color: rgba(0,0,0,0.75) ;
-   
-   
+   background-color: rgba(0,0,0,0.75) ; 
 }
 .navbar-brand{
     font-size: 1.2rem !important;
